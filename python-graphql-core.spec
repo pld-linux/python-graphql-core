@@ -2,7 +2,7 @@
 # Conditional build:
 %bcond_with	tests	# unit tests (not included in sdist)
 %bcond_without	python2 # CPython 2.x module
-%bcond_without	python3 # CPython 3.x module
+%bcond_with	python3 # CPython 3.x module (built from python3-graphql-core.spec)
 
 Summary:	GraphQL implementation for Python
 Summary(pl.UTF-8):	Implementacja GraphQL dla Pythona
