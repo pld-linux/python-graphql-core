@@ -52,6 +52,11 @@ GraphQL.js is the JavaScript reference implementation for GraphQL, a
 query language for APIs created by Facebook.
 
 %description -l pl.UTF-8
+Ta biblioteka to port GraphQL.js do Pythona, aktualna dla wydania
+0.6.0.
+
+GraphQL.js to napisana w JavaScripcie, referencyjna implementacja
+GraphQL - języka zapytań dla API Facebooka.
 
 %package -n python3-graphql-core
 Summary:	GraphQL implementation for Python
